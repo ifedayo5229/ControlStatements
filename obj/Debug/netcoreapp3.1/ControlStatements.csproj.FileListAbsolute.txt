@@ -1,0 +1,13 @@
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\bin\Debug\netcoreapp3.1\ControlStatements.exe
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\bin\Debug\netcoreapp3.1\ControlStatements.deps.json
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\bin\Debug\netcoreapp3.1\ControlStatements.runtimeconfig.json
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\bin\Debug\netcoreapp3.1\ControlStatements.runtimeconfig.dev.json
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\bin\Debug\netcoreapp3.1\ControlStatements.dll
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\bin\Debug\netcoreapp3.1\ControlStatements.pdb
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\obj\Debug\netcoreapp3.1\ControlStatements.csprojAssemblyReference.cache
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\obj\Debug\netcoreapp3.1\ControlStatements.AssemblyInfoInputs.cache
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\obj\Debug\netcoreapp3.1\ControlStatements.AssemblyInfo.cs
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\obj\Debug\netcoreapp3.1\ControlStatements.csproj.CoreCompileInputs.cache
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\obj\Debug\netcoreapp3.1\ControlStatements.dll
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\obj\Debug\netcoreapp3.1\ControlStatements.pdb
+C:\Users\IFEDAYO\Desktop\C# Classes\ControlStatements\obj\Debug\netcoreapp3.1\ControlStatements.genruntimeconfig.cache
